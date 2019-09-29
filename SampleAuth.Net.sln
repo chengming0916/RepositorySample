@@ -26,21 +26,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Solution Items", "0. Sol
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuth.Net.Presentation.Common", "SimpleAuth.Net.Presentation.Common\SimpleAuth.Net.Presentation.Common.csproj", "{DD8F88C1-12AC-403D-9ECB-DDEBEB1838BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAuth.Net.Presentation.Common", "SampleAuth.Net.Presentation.Common\SampleAuth.Net.Presentation.Common.csproj", "{DD8F88C1-12AC-403D-9ECB-DDEBEB1838BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuth.Net.Presentation.Service", "SimpleAuth.Net.Presentation.Service\SimpleAuth.Net.Presentation.Service.csproj", "{B8F48EC5-510F-48FA-B450-3D15AB1826BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAuth.Net.Presentation.Service", "SampleAuth.Net.Presentation.Service\SampleAuth.Net.Presentation.Service.csproj", "{B8F48EC5-510F-48FA-B450-3D15AB1826BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuth.Net.Service", "SimpleAuth.Net.Service\SimpleAuth.Net.Service.csproj", "{D286FD82-4DD6-4B2C-ABA5-406B98B16FA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAuth.Net.Service", "SampleAuth.Net.Service\SampleAuth.Net.Service.csproj", "{D286FD82-4DD6-4B2C-ABA5-406B98B16FA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuth.Net.Service.Tests", "SimpleAuth.Net.Service.Tests\SimpleAuth.Net.Service.Tests.csproj", "{C30F5C75-F48C-4F52-B53C-02C15B3A4DC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAuth.Net.Service.Tests", "SampleAuth.Net.Service.Tests\SampleAuth.Net.Service.Tests.csproj", "{C30F5C75-F48C-4F52-B53C-02C15B3A4DC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuth.Net.Persistence", "SimpleAuth.Net.Persistence\SimpleAuth.Net.Persistence.csproj", "{9616CCCD-2D1E-4E14-A3B1-7B02C1878660}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAuth.Net.Persistence", "SampleAuth.Net.Persistence\SampleAuth.Net.Persistence.csproj", "{9616CCCD-2D1E-4E14-A3B1-7B02C1878660}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuth.Net.Domain", "SimpleAuth.Net.Domain\SimpleAuth.Net.Domain.csproj", "{5700E5AC-6BD9-4CF2-92DF-A3DBF0AB4F7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAuth.Net.Domain", "SampleAuth.Net.Domain\SampleAuth.Net.Domain.csproj", "{5700E5AC-6BD9-4CF2-92DF-A3DBF0AB4F7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuth.Net.Domain.Tests", "SimpleAuth.Net.Domain.Tests\SimpleAuth.Net.Domain.Tests.csproj", "{65283703-A76C-4F3D-B398-B77E9A9DF144}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAuth.Net.Domain.Tests", "SampleAuth.Net.Domain.Tests\SampleAuth.Net.Domain.Tests.csproj", "{65283703-A76C-4F3D-B398-B77E9A9DF144}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuth.Net.Web", "SimpleAuth.Net.Web\SimpleAuth.Net.Web.csproj", "{37299925-6D95-44ED-9BCB-CEBD53A31172}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAuth.Net.Web", "SampleAuth.Net.Web\SampleAuth.Net.Web.csproj", "{37299925-6D95-44ED-9BCB-CEBD53A31172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

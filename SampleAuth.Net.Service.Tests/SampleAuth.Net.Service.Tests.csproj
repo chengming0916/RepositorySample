@@ -48,7 +48,6 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -59,7 +58,7 @@
       <Project>{5C40A085-AAF7-4618-A338-E54BB89C333F}</Project>
       <Name>Infrastructure.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SimpleAuth.Net.Persistence\SimpleAuth.Net.Persistence.csproj">
+    <ProjectReference Include="..\SampleAuth.Net.Persistence\SampleAuth.Net.Persistence.csproj">
       <Project>{9616CCCD-2D1E-4E14-A3B1-7B02C1878660}</Project>
       <Name>SimpleAuth.Net.Persistence</Name>
     </ProjectReference>

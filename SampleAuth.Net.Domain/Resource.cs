@@ -10,7 +10,7 @@ namespace RepositorySample.Domain
     /// <summary>
     /// 资源实体
     /// </summary>
-    public class Resource : AggregateRoot, ICascadable<Resource, int>
+    public class Resource : AggregateRoot<int>, ICascadable<Resource, int>
     {
         /// <summary>
         /// 资源名称

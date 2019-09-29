@@ -72,7 +72,7 @@
       <Project>{5C40A085-AAF7-4618-A338-E54BB89C333F}</Project>
       <Name>Infrastructure.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SimpleAuth.Net.Domain\SimpleAuth.Net.Domain.csproj">
+    <ProjectReference Include="..\SampleAuth.Net.Domain\SampleAuth.Net.Domain.csproj">
       <Project>{5700E5AC-6BD9-4CF2-92DF-A3DBF0AB4F7F}</Project>
       <Name>SimpleAuth.Net.Domain</Name>
     </ProjectReference>

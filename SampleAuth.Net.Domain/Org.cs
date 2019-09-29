@@ -10,7 +10,7 @@ namespace RepositorySample.Domain
     /// <summary>
     /// 组织架构实体
     /// </summary>
-    public class Org : AggregateRoot, ICascadable<Org, int>
+    public class Org : AggregateRoot<int>, ICascadable<Org, int>
     {
         /// <summary>
         /// 组织名称
